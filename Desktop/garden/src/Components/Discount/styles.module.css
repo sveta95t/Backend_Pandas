@@ -1,0 +1,11 @@
+
+.background_discount{
+    background: green;
+}
+
+.discount_table{
+    display: flex;
+    border: 1px black;
+    
+}
+
